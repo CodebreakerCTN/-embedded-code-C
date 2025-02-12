@@ -11,6 +11,8 @@ int main() {
 	
 	if (a > b)
 		printf("a lon hon b");
+	else if (a == b) 
+		printf("a bang b");
 	else 
 		printf("a khong lon hon b");
 		
